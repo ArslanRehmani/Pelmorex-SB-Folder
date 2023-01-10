@@ -19,7 +19,8 @@
       */
      function doGet(requestParams) {
         //netsuite ka data dosri app mn bhej raha ho mn
-        return requestParams.ssid;
+        // return requestParams.ssid;
+        return "Hello World, we are ALPHABOLD!"
      }
 
      /**
